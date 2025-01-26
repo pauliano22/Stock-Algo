@@ -1,6 +1,6 @@
 # Stock-ALGO
 
-**Quantitative Portfolio Trading Backtesting Engine with C++ and PyTorch**
+**Quantitative Portfolio Trading Backtesting Engine with C++ and PyTorch - CPMC **
 
 ## Overview
 
