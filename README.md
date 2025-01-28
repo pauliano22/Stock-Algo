@@ -4,7 +4,7 @@
 
 ## Overview
 
-A robust backtesting engine designed to evaluate quantitative trading strategies. Combines the power of C++ for speed and efficiency with PyTorch's' ML models, the engine allows users to test, analyze, and refine strategies using historical stock data.
+A robust backtesting engine designed to evaluate quantitative trading strategies. Combining the power of C++ for speed and efficiency with PyTorch's' ML models, this engine allows users to test, analyze, and refine strategies using historical stock data.
 
 ### Features
 - **LSTM-based Stock Prediction Model**:
